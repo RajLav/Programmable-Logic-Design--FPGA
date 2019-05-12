@@ -1,9 +1,9 @@
 **#Subject : Programmable-Logic-Design--FPGA  
 #Term : Fall 18  
-#Project : Tic - Tac- Toe , Quiz, Hangman Game
+#Project : Tic - Tac- Toe , Quiz, Hangman Game  
 #Author : Raj Lavingia, Sanju, Srinath**    
 
-
+**Description**  
 This project was intended to make three games using Altera DE-1 SoC Board and use its peripherals.
 
 For this project first of all we made a Tic Tac Toe game and interfaced the VGA monitor with the DE-1 Soc board. We divided the screen into 9 parts and then using the matrix system and grid system we coloured each pixel of the VGA monitor in order to play the game. It was a 2 player game where each player has to enter coordinates in order to select their rectangle.
